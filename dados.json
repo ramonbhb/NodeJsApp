@@ -1,0 +1,27 @@
+[
+    {
+        "idProduto": 1, 
+        "tipoOferta": "oferta do dia",
+        "descricao": "Smart TV LED 43” LG 43UP7500 4K UHD Wi-Fi Bluetooth HDR ThinQAI Compatível Com Inteligência Artificial",
+        "rating": 4,
+        "nAvaliacoes": 70,
+        "precoAntigo": 2099.99,
+        "precoAtual": 1999.99,
+        "americanaMais": true,
+        "parcelamento": 1,
+        "cashback": 5,
+        "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/3280455/5/3280455594P1.jpg"
+    },
+    { 
+        "idProduto": 4678,
+        "tipoOferta": "leve 7 por R$10",
+        "descricao": "Choc kit kat ao leite 41,5G nestle",
+        "rating": 4.8,
+        "precoAntigo": null,
+        "precoAtual": 2.99,
+        "americanaMais": false,
+        "parcelamento": 1,
+        "cashback": null,
+        "imagem": "https://images-americanas.b2w.io/produtos/44414152/imagens/choc-kit-kat-ao-leite-41-5g-nestle/44414152_1_medium.jpg"
+    }     
+]
